@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-      <h1>头条模拟练习</h1>
     <router-view/>
   </div>
 </template>
